@@ -5,3 +5,4 @@ This project fetches cryptocurrency data using an API, processes it into a DataF
 ## Files
 - CryptoDataFetcher.ipynb: Jupyter Notebook with the code to fetch and save the data.
 - API.csv: The resulting dataset.
+
